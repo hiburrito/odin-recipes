@@ -1,1 +1,2 @@
 # odin-recipes
+In this project I will create my own basic website using only HTML through a Linux Operating system, in this assignment I will be able to display my skills in the use of the linux command line terminal, additionally I will progress and build my skills in the use of Visual Studio Code. Later on I will be able to redesign this webiste throug hthe use of CSS, and later on I will implement JavaScript where needed.
